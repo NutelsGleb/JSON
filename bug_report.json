@@ -1,7 +1,7 @@
 {"ID":3201
 "Summery":"Field 'Birthday' on registration form accept invalid data"
 "Severity":"Major"
-"steps to reproduce": {  "1": "open site.com"
+"steps to reproduce": { "1": "open site.com"
 			"2": "click 'dont have accont?' button"
 			"3": "enter current data"
 			}
